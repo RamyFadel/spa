@@ -1,0 +1,9 @@
+.COMPONENT{
+    color: #2C3E50;
+}
+.line{
+    background-color: #2C3E50;
+    width: 80px;
+    height: 4px;
+
+}

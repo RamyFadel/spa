@@ -1,0 +1,18 @@
+.home{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1ABC9C;
+}
+.center{
+  
+    padding: 20px;
+   text-align: center;
+}
+.line{
+    background-color: white;
+    width: 80px;
+    height: 4px;
+
+}
